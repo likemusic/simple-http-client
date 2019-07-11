@@ -2,10 +2,6 @@
 
 namespace Likemusic\SimpleHttpClient;
 
-/**
- * Interface HttpClientInterface
- * @package TennisScoreGrabber\Contracts
- */
 interface HttpClientInterface
 {
     /**
